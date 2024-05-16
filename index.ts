@@ -18,6 +18,5 @@ if (answer.userRandomNumber===randomNumber){
     console.log("Congratulations! You Guessed The Right Number");
 }
 else {
-    console.log("Sorry You Guessed The Wrong Number, Please Try again");
-    
-}
+    console.log("Sorry You Guessed The Wrong Number, Please Try Again");
+    }

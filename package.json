@@ -1,12 +1,13 @@
 {
   "name": "yk-47-cli-number-guessing-game",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This Is A CLI Based Number Guessing Game",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
   },
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
