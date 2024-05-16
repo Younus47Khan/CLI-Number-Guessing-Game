@@ -1,0 +1,18 @@
+{
+  "name": "yk-47-cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This Is A CLI Based Number Guessing Game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
